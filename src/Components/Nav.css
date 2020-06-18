@@ -1,0 +1,13 @@
+.nav-bar-items{
+    display:flex;
+    justify-content: space-around;
+    list-style-type:none;
+  
+  }
+  .nav-bar{
+     
+      align-items: center;
+      min-height: 10vh;
+      background: rgb(73, 79, 82);
+  }
+  
